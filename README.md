@@ -18,4 +18,4 @@ To use it:
 
 Run it: 
 
-```docker container run --detach -p 80:80 windows_tweet_app```
+```docker container run --detach -p 8080:80 windows_tweet_app```
