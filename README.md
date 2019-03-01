@@ -4,6 +4,8 @@ This is a very simple Microsoft IIS website that allows a user to send a tweet.
 
 This is part of the Docker for Window Servers series from [56K.Cloud](www.56k.cloud) This exercise is about configuring Windows Servers for a Docker development environment.
 
+The complete tutorial can be found here - https://www.brianchristner.io/configure-windows-server-for-docker-development/
+
 Requirments
 
 * Windows Server OS: Server 2016 (Core and GUI), 1709 and 1803
